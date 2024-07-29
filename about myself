@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+
+ <body  style="background-color: #9966cc;">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="https://codepen.io/width=device-width, initial-scale=1.0">
+    <title>All About Myself</title>
+</head>
+<body>
+    <h1>Introduction</h1>
+  <h2><p>Hello, I am Mehroosh Riona.</p></h2>
+  
+  
+  
+<img src="https://ae01.alicdn.com/kf/S2f31c0bb32a94677813b2bae155cf066d/Kids-Dresses-For-Party-Wedding-Dress-Flower-embroidery-Children-Pageant-ball-Gown-Girls-Princess-Dress-Toddler.jpg" width="200" 
+     <p><h1>Background</h1></p>
+  <h2><p>I have a background in art. I love sketching a lot but, drawing cats is my absulote favorite!</p></h2>
+
+  <img src="https://images.template.net/wp-content/uploads/2016/11/21054007/Cute-Cat-Drawing.jpg"
+  
+width="200"
+         
+           <p><h1>More about me</h1></p>
+  <h2><p>What I like
+    : I like doing math a lot. It is my hobby. When i have time I am always on my whiteboard wtiting down equations and trying to solve then  </p></h2>
+       
+     <img   src="https://img.freepik.com/premium-photo/female-high-school-student-solving-math-equation-white-board_662251-1801.jpg" wdith="203"  
+     
+  
+    
+       
+  
+</body>
+</html>
